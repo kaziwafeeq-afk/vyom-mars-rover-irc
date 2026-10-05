@@ -41,4 +41,4 @@ Team Vishwa comprises undergraduate students collaborating across mechanical, el
 
 ## Documentation & Credentials ./Mini%20Project.pdf
 * **[Download & Read Complete SDDR Report (PDF)](./TeamVishwa_SDDRReport1.pdf)**: Access the full 15-page design report featuring detailed milestone schedules, complete component budgets, electrical schematics, and mechanical CAD layouts.
-* **[View Official IRC 2024 Certificate of Participation (PDF)](./assets/certificate_irc2024.pdf)**: Official verification of participation in the International Rover Challenge held at PSG iTech, Coimbatore[cite: 231].
+* **[View Official IRC 2024 Certificate of Participation (PDF)](./Wafeeq_Certificate%20of%20Participation.pdf)**: Official verification of participation in the International Rover Challenge held at PSG iTech, Coimbatore[cite: 231].
